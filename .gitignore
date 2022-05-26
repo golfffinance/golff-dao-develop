@@ -1,0 +1,15 @@
+.idea/
+node_modules/
+
+build/
+.DS_Store
+coverage/
+coverage.json
+
+*.log
+!deployments/*.log
+
+.env
+.secret
+.vscode/
+
